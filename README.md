@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rifaldi34
 - 👀 I’m interested in anything
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning docker
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 rifaldi34.github.io
 
